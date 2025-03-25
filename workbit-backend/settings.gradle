@@ -1,0 +1,13 @@
+rootProject.name = 'workbit-backend'
+
+include 'api-gateway'
+include 'auth-service'
+include 'comment-service'
+include 'notification-service'
+include 'organization-service'
+include 'project-service'
+include 'task-service'
+include 'user-service'
+include 'common'
+include 'external:kafka-producer'
+include 'external:websocket'

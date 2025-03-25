@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.36/5a30490a6e14977d97d9c73c924c1f1b5311ea95/lombok-1.18.36.jar" />
+        </processorPath>
+        <module name="workbit-backend.comment-service.main" />
+        <module name="workbit-backend.organization-service.test" />
+        <module name="workbit-backend.user-service.test" />
+        <module name="workbit-backend.notification-service.test" />
+        <module name="workbit-backend.external.websocket.main" />
+        <module name="workbit-backend.api-gateway.main" />
+        <module name="workbit-backend.external.test" />
+        <module name="workbit-backend.comment-service.test" />
+        <module name="workbit-backend.project-service.main" />
+        <module name="workbit-backend.external.kafka-producer.test" />
+        <module name="workbit-backend.task-service.main" />
+        <module name="workbit-backend.common.main" />
+        <module name="workbit-backend.external.main" />
+        <module name="workbit-backend.task-service.test" />
+        <module name="workbit-backend.external.websocket.test" />
+        <module name="workbit-backend.api-gateway.test" />
+        <module name="workbit-backend.project-service.test" />
+        <module name="workbit-backend.common.test" />
+        <module name="workbit-backend.organization-service.main" />
+        <module name="workbit-backend.user-service.main" />
+        <module name="workbit-backend.notification-service.main" />
+        <module name="workbit-backend.external.kafka-producer.main" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.30/f195ee86e6c896ea47a1d39defbe20eb59cd149d/lombok-1.18.30.jar" />
+        </processorPath>
+        <module name="workbit-backend.auth-service.main" />
+        <module name="workbit-backend.auth-service.test" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

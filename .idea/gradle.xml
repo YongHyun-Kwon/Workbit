@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/workbit-backend" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/workbit-backend" />
+            <option value="$PROJECT_DIR$/workbit-backend/api-gateway" />
+            <option value="$PROJECT_DIR$/workbit-backend/auth-service" />
+            <option value="$PROJECT_DIR$/workbit-backend/comment-service" />
+            <option value="$PROJECT_DIR$/workbit-backend/common" />
+            <option value="$PROJECT_DIR$/workbit-backend/external" />
+            <option value="$PROJECT_DIR$/workbit-backend/external/kafka-producer" />
+            <option value="$PROJECT_DIR$/workbit-backend/external/websocket" />
+            <option value="$PROJECT_DIR$/workbit-backend/notification-service" />
+            <option value="$PROJECT_DIR$/workbit-backend/organization-service" />
+            <option value="$PROJECT_DIR$/workbit-backend/project-service" />
+            <option value="$PROJECT_DIR$/workbit-backend/task-service" />
+            <option value="$PROJECT_DIR$/workbit-backend/user-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

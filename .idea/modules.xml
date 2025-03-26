@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Workbit.iml" filepath="$PROJECT_DIR$/.idea/Workbit.iml" />
       <module fileurl="file://$PROJECT_DIR$/workbit-backend/src/main/main.iml" filepath="$PROJECT_DIR$/workbit-backend/src/main/main.iml" />
       <module fileurl="file://$PROJECT_DIR$/workbit-backend/src/test/test.iml" filepath="$PROJECT_DIR$/workbit-backend/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auth-service/workbit-backend.auth-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/auth-service/workbit-backend.auth-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/auth-service/workbit-backend.auth-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/auth-service/workbit-backend.auth-service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/workbit-backend.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/workbit-backend.common.main.iml" />
     </modules>
   </component>
 </project>
